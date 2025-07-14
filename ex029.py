@@ -5,4 +5,3 @@ if vel > 80:
     print('Você deve pagar uma multa de R${:.2f}'.format(multa))
 else:
     print('Tenha um bom dia, dirija com segurança')
-teste
