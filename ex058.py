@@ -11,3 +11,4 @@ while not acertou:
     if jogador == computador:
         acertou = True
 print('Acertou com {} palpites'.format(palpites))
+.
