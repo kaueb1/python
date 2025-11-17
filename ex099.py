@@ -1,4 +1,6 @@
+from random import randint
 from time import sleep
+
 
 def maior(* núm):
     cont = maior = 0
