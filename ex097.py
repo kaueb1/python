@@ -8,3 +8,4 @@ def escreva(msg):
 escreva('Gustavo Guanabara')
 escreva('Curso de python no YouTube')
 escreva('CeV')
+print()
